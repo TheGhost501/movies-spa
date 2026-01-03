@@ -92,24 +92,3 @@ Your Name - Ilian Ivanov
 This project is part of my learning journey in JavaScript Applications at SoftUni.
 www.softuni.bg
 ```
-
----
-
-### **2. Clean Up Your Code**
-
-Before pushing:
-
-✅ Remove any console.logs (or keep only important ones)
-✅ Remove commented-out code
-✅ Ensure consistent formatting
-✅ Add comments where necessary
-✅ Check all files are included
-
----
-
-### **3. Add a `.gitignore`**
-```
-node_modules/
-.DS_Store
-*.log
-.env
